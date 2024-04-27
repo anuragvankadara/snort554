@@ -631,7 +631,7 @@ include $RULE_PATH/icmp.rules
 include $RULE_PATH/imap.rules
 #include $RULE_PATH/indicator-compromise.rules
 #include $RULE_PATH/indicator-obfuscation.rules
-include $RULE_PATH/indicator-shellcode.rules
+#include $RULE_PATH/indicator-shellcode.rules
 include $RULE_PATH/info.rules
 #include $RULE_PATH/malware-backdoor.rules
 #include $RULE_PATH/malware-cnc.rules
